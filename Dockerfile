@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-MAINTAINER "abhay"
+MAINTAINER "abhay oo"
 RUN apt update
 RUN apt install nginx -y
 EXPOSE 80
